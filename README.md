@@ -1,2 +1,4 @@
 # empleo_sinaloa
-Empleo formal en Sinaloa, abril 2021.
+Código para importar datos del empleo formal en Sinaloa
+y realizar un gráfico de barras por sector económico.
+
